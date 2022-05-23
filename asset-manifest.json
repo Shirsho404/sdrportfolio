@@ -1,17 +1,16 @@
 {
   "files": {
     "main.css": "/sdrportfolio/static/css/main.3a8b338e.css",
-    "main.js": "/sdrportfolio/static/js/main.48321bf8.js",
+    "main.js": "/sdrportfolio/static/js/main.edb55a89.js",
     "static/js/787.d7e4ecbb.chunk.js": "/sdrportfolio/static/js/787.d7e4ecbb.chunk.js",
-    "static/media/Hello.jpeg": "/sdrportfolio/static/media/Hello.a0e62081ef160259ade3.jpeg",
     "static/media/dev.jpg": "/sdrportfolio/static/media/dev.686926906aef4d49c2ed.jpg",
     "index.html": "/sdrportfolio/index.html",
     "main.3a8b338e.css.map": "/sdrportfolio/static/css/main.3a8b338e.css.map",
-    "main.48321bf8.js.map": "/sdrportfolio/static/js/main.48321bf8.js.map",
+    "main.edb55a89.js.map": "/sdrportfolio/static/js/main.edb55a89.js.map",
     "787.d7e4ecbb.chunk.js.map": "/sdrportfolio/static/js/787.d7e4ecbb.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.3a8b338e.css",
-    "static/js/main.48321bf8.js"
+    "static/js/main.edb55a89.js"
   ]
 }
