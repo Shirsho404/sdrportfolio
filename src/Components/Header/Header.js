@@ -1,6 +1,6 @@
 import React from 'react'
 import './header.css';
-import ME from '../../asset/Hello.jpeg';
+// import ME from '../../asset/Hello.jpeg';
 const Header = () => {
   return (
     <header id="home">
@@ -12,9 +12,9 @@ const Header = () => {
         <a href="#CV" className='btn x'>Resume</a>
         <a href="#contact" className='btn btn-primary'>Lets Talk</a>
         </div>
-        <div className='me'>
+        {/* <div className='me'>
           <img src={ME} alt="No img" />
-        </div>
+        </div> */}
       </div>
     </header>
   )
