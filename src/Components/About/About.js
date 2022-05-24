@@ -20,7 +20,7 @@ const About = () => {
             <img src={ME} alt=""/>
          </div>
         </div>
-          {/* <a href="#contact" className='btn btn-primary'>Lets Talk</a>  */}
+          {/* <a href="#contact" className='btn btn-primary'>Lets Talk</a> */ }
         <div className='about-content'>
          <div className='about-cards'>
            <article className='about-card'>
@@ -51,7 +51,7 @@ const About = () => {
             Hi I am Shirsho Das Roy, Fresher at NIT Rourkela, persuing Bachelors in Electronics and Instrumentation.I am a Tech 
             enthusiast and have been working on both Competitive Programming and Development Skills.
           </p>
-          <a href="#contact" className='btn btn-primary'>Lets Talk</a> */}
+  <a href="#contact" className='btn btn-primary'>Lets Talk</a>*/ }
         </div>
       </div>
     </section>

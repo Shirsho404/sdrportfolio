@@ -1,9 +1,9 @@
 import React from 'react'
 import './header.css';
-// import ME from '../../asset/Hello.jpeg';
+import ME from '../../asset/Hello.jpeg';
 const Header = () => {
   return (
-    <header id="home">
+    <section id="home">
       <div className='container header-container'>
         <h5>Hello I am</h5>
         <h2>Shirsho Das Roy</h2>
@@ -12,11 +12,11 @@ const Header = () => {
         <a href="#CV" className='btn x'>Resume</a>
         <a href="#contact" className='btn btn-primary'>Lets Talk</a>
         </div>
-        {/* <div className='me'>
+        <div className='me'>
           <img src={ME} alt="No img" />
-        </div> */}
+        </div>
       </div>
-    </header>
+    </section>
   )
 }
 

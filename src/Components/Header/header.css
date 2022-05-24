@@ -4,6 +4,9 @@ header{
     margin-top: 6rem;
     /* margin-bottom: 6rem; */
 }
+/* #home>h5{
+   color: gray;
+} */
 .header-container{  
     text-align: center;
     position: relative;
@@ -15,11 +18,11 @@ header{
     height:28rem; 
     position: absolute;
     left:calc(50% - 10rem);
-    margin-top: 1.8rem;
+    margin-top: 2rem;
     }
 .me img{
     border-radius: 1.4rem ;
-    height: 22rem;
+    height: 21rem;
     border: 5px solid rgb(60, 200, 228);
     padding: 5px;
 }
